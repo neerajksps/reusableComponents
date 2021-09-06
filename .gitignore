@@ -36,6 +36,11 @@ proguard/
 # Android Studio captures folder
 captures/
 
+node_modules/
+ios/Pods/
+ios/Podfile.lock
+
+
 # IntelliJ
 *.iml
 .idea/workspace.xml
